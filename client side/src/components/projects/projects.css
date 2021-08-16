@@ -1,0 +1,26 @@
+.links{
+ margin-top: 2%;
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 20%;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+   }
+.button-link{
+   color: white;
+   text-align: center;
+   margin-left:10%;
+   margin-right:10%;
+   border-bottom: white;
+   background: rgb(0, 0, 0);
+   width:200%;
+   height: 150%;
+   }
+   .link-text{
+      width: 100% !important;
+ display: flex;
+ justify-content:space-around !important;
+ align-items: center;
+    
+   }

@@ -1,0 +1,31 @@
+.sign-up{
+  margin-top: auto;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.submit {
+  background-color: rgb(0, 0, 0) ;
+  border: none;
+  color: rgb(255, 255, 255);
+  padding: 8px 72px;
+  text-decoration: none;
+  margin: 12px 2px;
+  cursor: pointer;
+  width: 100% !important;
+  
+}
+
+  .sign-up-title{
+    text-align: center !important;
+  font-size: 25px !important;
+  font-weight: bold;
+  margin-left: 10% !important;
+  margin-right: 10% !important;
+  margin-top: 5% !important;
+  padding: 16px 16px !important;
+    
+    
+}
+
+    

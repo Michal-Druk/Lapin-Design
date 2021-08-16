@@ -1,0 +1,33 @@
+
+textarea{
+    text-align: right
+    
+  }
+.inputName{
+    text-align: right;
+    width: 90%;
+    height: 100%;
+    
+ 
+}
+.title{
+    text-align: center !important;
+  font-size: 25px !important;
+  font-weight: bold;
+  margin-left: 28% !important;
+  margin-right: 28% !important;
+ 
+  padding: 16px 16px !important;
+}
+
+.submitRate {
+    background-color: rgb(0, 0, 0) ;
+    border: none;
+    color: rgb(255, 255, 255);
+    padding: 8px 72px;
+    text-decoration: none;
+    margin: 12px 2px;
+    cursor: pointer;
+    width: 90% !important;
+    
+  }
