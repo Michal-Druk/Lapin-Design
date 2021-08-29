@@ -7,7 +7,7 @@ to run the project:
 
 1. open CMD in server side folder, and run:
 	npm install
-	npm run dev
+	npm start
 
 2. open CMD in client side folder, and run:
 	npm install
